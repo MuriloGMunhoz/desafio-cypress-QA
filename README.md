@@ -55,7 +55,9 @@ Esses cenários representam funcionalidades essenciais e reutilizáveis em qualq
 
 ---
 
-## Autor
+## Autor e Observacoes
+
+Durante a execução dos testes, foi identificado o seguinte problema na interface da loja: Banners de produtos não clicáveis na tela principal. Os banners exibidos na página inicial da loja aparentam ser interativos, mas não possuem links ou ações associadas. Isso impossibilita a navegação direta para os produtos destacados, o que pode prejudicar a experiência do usuário e impactar negativamente a conversão.
 
 Murilo Munhoz  
 Email: murilomunhoz.mgm@gmail.com  
